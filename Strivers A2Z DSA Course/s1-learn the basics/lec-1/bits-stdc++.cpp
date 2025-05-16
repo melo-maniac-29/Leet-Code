@@ -1,0 +1,3 @@
+#include<bits/stdc++.h> // Including the bits/stdc++.h header file for various standard libraries generally used in competitive programming
+
+//bits/stdc++.h is a header file that includes most of the standard C++ libraries. It is often used in competitive programming to save time on including multiple headers. However, it is not part of the C++ standard and may not be available in all environments. It is generally recommended to include only the specific headers you need for better portability and readability.
