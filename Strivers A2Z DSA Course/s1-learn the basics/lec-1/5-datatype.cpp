@@ -79,3 +79,46 @@ int main(){
     
     return 0;
 }
+
+// PS D:\code\Leet-Code>  & 'c:\Users\allen\.vscode\extensions\ms-vscode.cpptools-1.25.3-win32-x64\debugAdapters\bin\WindowsDebugLauncher.exe' '--stdin=Microsoft-MIEngine-In-dt231qua.wgj' '--stdout=Microsoft-MIEngine-Out-ssdb5g1a.z4n' '--stderr=Microsoft-MIEngine-Error-htkj0sft.zm1' '--pid=Microsoft-MIEngine-Pid-jqapkagj.pcj' '--dbgExe=C:\ProgramData\mingw64\mingw64\bin\gdb.exe' '--interpreter=mi' 
+// Integer values:
+// int a = 10
+// short int b = 5
+// long int c = 1000000
+// long long int d = 1000000000
+
+// Unsigned integer values:
+// unsigned int e = 10
+// unsigned short f = 5
+// unsigned long g = 1000000
+// unsigned long long h = 1000000000
+
+// Floating-point values:
+// float i = 10.5
+// double j = 10.1235
+// long double k = 10.1235
+
+// Character values:
+// char l = 'A'
+// wchar_t m = '937'
+
+// Boolean value:
+// bool n = true
+
+// String value:
+// string o = "Hello World"
+
+// ------------------------
+// Size of int: 4 bytes
+// Size of short int: 2 bytes
+// Size of long int: 4 bytes
+// Size of long long int: 8 bytes
+// Size of float: 4 bytes
+// Size of double: 8 bytes
+// Size of char: 1 byte
+// Size of bool: 1 byte
+// Size of string: Variable (current example: 32 bytes)
+
+// Enter a number: 3
+// Value of x is: 3
+// PS D:\code\Leet-Code> 
