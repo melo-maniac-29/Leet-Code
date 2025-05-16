@@ -1,0 +1,24 @@
+# Ignore all executable files
+*.exe
+
+# Other common files to ignore
+*.o
+*.obj
+*.out
+*.app
+*.dll
+*.so
+*.dylib
+
+# Build directories
+/build/
+/Debug/
+/Release/
+/x64/
+/x86/
+
+# IDE specific files
+.vscode/
+.vs/
+*.suo
+*.user
