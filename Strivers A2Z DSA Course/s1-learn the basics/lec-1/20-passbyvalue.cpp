@@ -23,3 +23,9 @@ int main(){
     //and the original values are not changed
     return 0;
 }
+
+
+// The numbers are: 5 and 10
+// The numbers after incrementing are: 6 and 11
+// The original values are not changed: 5 and 10
+// PS D:\code\Leet-Code> 
