@@ -1,0 +1,33 @@
+questions:
+
+
+for(int i=0;i<n;i++)   //runs n times
+{
+    for(int j=0;j<n;j++)   //runs n times 
+    {
+        cout<<i<<endl;      
+    }
+}
+
+// Time complexity = O(n^2)   // n*n = n^2
+
+
+qt 2:
+
+
+for(int i =0;i<n;i++)   //runs n times
+{
+    for(int j=0;j<=i;j++)  
+    {
+        cout<<i<<endl;      
+    }
+}
+
+
+// Time complexity = O(n^2)   // 1+2+3+4+...+n = n*(n+1)/2 = n^2/2 + n/2 = O(n^2)
+explanation:
+// The outer loop runs n times, and the inner loop runs i+1 times for each iteration of the outer loop.
+// So the total number of iterations is 1 + 2 + 3 + ... + n = n*(n+1)/2.
+// This is a well-known formula for the sum of the first n natural numbers.
+// Therefore, the time complexity is O(n^2).
+
