@@ -13,7 +13,7 @@ it is used to analyze the memory usage of an algorithm and to compare the effici
 it is usually expressed using Big O notation, which describes the upper bound of the space complexity.
 
 
-what is big O notation
+what is big O notation(worst case)
 
 Big O notation is a mathematical notation used to describe the upper bound of the time or space complexity of an algorithm.
 It provides a high-level understanding of the algorithm's efficiency and helps in comparing different algorithms.
@@ -31,4 +31,10 @@ Rules:
         computed in terms of worst case scenarios 
         avoid constants
         avoid lower values
+
+
+
+big O- worst case
+theta- average case
+omega- best case
 
