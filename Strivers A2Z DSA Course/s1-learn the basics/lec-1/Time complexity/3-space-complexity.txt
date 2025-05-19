@@ -1,0 +1,31 @@
+Space complexity
+
+- memory space
+- big O notation
+
+
+definition: 
+        auxilary space + input space
+        auxilary space: space that we take to solve the problem
+        input space: space required by the input
+
+
+
+eg:
+
+    a=b+c
+
+    auxilary space = a (because we are using a variable to store the result)
+    input space = b+c (because we are using 2 variables to store the input)
+
+
+eg:
+
+    int a[n]
+    space complexity = n (because we are using n variables to store the input)
+    big O = O(n)
+
+
+---------------------------------------------------------------------------------------------------------
+||for mnc interviews dont tamper with the input data - use extra space - because they will not like it ||
+---------------------------------------------------------------------------------------------------------
