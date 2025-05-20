@@ -7,3 +7,5 @@ logic
 (3): whatever printing , print them inside the inner for loop
 (4): observe symmentery in case of patterns
 
+-----------
+in online compilers only write fuction 
