@@ -1,0 +1,11 @@
+
+whats called c++ stl?
+
+STL is a powerful set of C++ template classes to provide general-purpose classes and functions with templates.
+
+
+divided into 4 parts:
+1. Algorithms
+2. Containers
+3. Function objects
+4. Iterators
